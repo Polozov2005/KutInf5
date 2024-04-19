@@ -1,6 +1,5 @@
 ### Проведение расчётов
 import numpy as np
-import sympy as sy
 
 # Задание функции
 def f(x):
